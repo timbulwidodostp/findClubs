@@ -1,6 +1,8 @@
 # findClubs
 Finding (Finds) Convergence Clubs Use findClubs (ConvergenceClubs) With (In) R Software
 
+https://www.youtube.com/watch?v=lHGnlbmqh4o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
